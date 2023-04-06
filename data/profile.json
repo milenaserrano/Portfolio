@@ -1,0 +1,47 @@
+{
+  "name": "Milena Candida Serrano Miron",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Tecnologia da Informação",
+  "location": "Sales Oliveira - SP",
+  "phone": "(16) 99739-7536",
+  "email": "milenaserranomiron@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Avançado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Primeiro contato com a programação:",
+      "url": "https://github.com/milenaserrano/Primeiros-Programinhas",
+      "github": true
+    },
+    {
+      "name": "Projeto criado pelos instrutores da plataforma DIO e editado por mim, para maior aprendizado das linguagens HTML, CSS e JAVASCRIPT.",
+      "url": "https://github.com/milenaserrano/Multiverso_SpiderMan",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "CIEE (Centro de Integração Empresa Escola)",
+      "period": "2021-2023 - atual",
+      "description": "Estágio na área da Informática."
+    }
+  
+  ]
+}
